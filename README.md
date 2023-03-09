@@ -1,2 +1,2 @@
 # Text-to-speech-python
-![](/Ouput.png)
+![](/Output.png)
